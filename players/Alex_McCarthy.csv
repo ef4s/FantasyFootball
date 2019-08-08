@@ -1,0 +1,42 @@
+Acceleration,58
+Aggression,35
+Agility,35
+Att. Position,16
+Balance,43
+Ball Control,17
+Composure,61
+Crossing,11
+Curve,15
+Dribbling,17
+FK Acc.,18
+Finishing,17
+GK Diving,76
+GK Handling,76
+GK Kicking,64
+GK Positioning,75
+GK Reflexes,81
+Heading,16
+Interceptions,22
+Jumping,68
+Long Pass,35
+Long Shots,14
+Marking,13
+Penalties,41
+Puncher,1
+Reactions,69
+Short Pass,33
+Shot Power,20
+Slide Tackle,12
+Sprint Speed,56
+Stamina,35
+Stand Tackle,13
+Strength,63
+Vision,50
+Volleys,12
+age,['29']
+attacking_work_rate,Medium
+defensive_work_rate,Medium
+potential,77
+rating,76
+skill_moves,1
+weak_foot,2

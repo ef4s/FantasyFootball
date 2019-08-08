@@ -1,0 +1,53 @@
+Acceleration,78
+Aggression,76
+Agility,79
+Att. Position,87
+Balance,77
+Ball Control,91
+Complete Midfielder,1
+Composure,90
+Crosser,1
+Crossing,93
+Curve,85
+Distance Shooter,1
+Dribbler,1
+Dribbling,86
+Early Crosser,1
+Engine,1
+FK Acc.,83
+Finishing,82
+GK Diving,15
+GK Handling,13
+GK Kicking,5
+GK Positioning,10
+GK Reflexes,13
+Heading,55
+Injury Prone,1
+Interceptions,61
+Jumping,63
+Leadership,1
+Long Pass,91
+Long Passer (CPU AI Only),1
+Long Shot Taker (CPU AI Only),1
+Long Shots,90
+Marking,68
+Penalties,79
+Playmaker,1
+Playmaker (CPU AI Only),1
+Reactions,91
+Short Pass,92
+Shot Power,91
+Slide Tackle,51
+Sprint Speed,76
+Stamina,89
+Stand Tackle,58
+Strength,75
+Vision,94
+Volleys,82
+age,['28']
+attacking_work_rate,High
+defensive_work_rate,High
+potential,91
+rating,91
+skill_moves,4
+weak_foot,5

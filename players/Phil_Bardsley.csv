@@ -1,0 +1,42 @@
+Acceleration,57
+Aggression,85
+Agility,65
+Att. Position,58
+Balance,62
+Ball Control,71
+Composure,69
+Crossing,71
+Curve,66
+Dives Into Tackles (CPU AI Only),1
+Dribbling,67
+FK Acc.,33
+Finishing,47
+GK Diving,11
+GK Handling,8
+GK Kicking,9
+GK Positioning,9
+GK Reflexes,8
+Heading,71
+Interceptions,74
+Jumping,73
+Long Pass,67
+Long Shots,66
+Marking,75
+Penalties,56
+Reactions,75
+Short Pass,71
+Shot Power,80
+Slide Tackle,77
+Sprint Speed,50
+Stamina,73
+Stand Tackle,76
+Strength,76
+Vision,59
+Volleys,43
+age,['34']
+attacking_work_rate,Medium
+defensive_work_rate,Medium
+potential,72
+rating,72
+skill_moves,3
+weak_foot,3
